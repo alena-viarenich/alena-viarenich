@@ -1,0 +1,83 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+  }
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  color: rgb(70, 63, 63);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.308);
+}
+
+/*main content section*/
+.main-content-section {
+ background-color: rgba(233, 230, 227, 0.363);
+ }
+
+ /*Titel content section*/
+.titel-section {
+  font-size: 18px;
+  font-weight: 700;
+  color:rgb(46, 43, 43);
+  background-color:  #a4b3c72f;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-bottom: 15px;
+}
+
+.company-name {
+ color: #FB6D3A;
+ }
+
+/*Erfahrung und Ausbildung content section*/
+
+.erfahrung-ausbilbung-titel-section {
+ font-style: normal;
+ font-weight: bold;
+ font-size: 22px;
+ line-height: 40px;
+ color: rgb(46, 43, 43);
+ background-color:  #a4b3c72f;
+ padding-left: 20px;
+}
+
+.erfahrung-ausbilbung-section {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.aufgeben-list {
+  line-height: 24px;
+  color: #595959;
+
+
+}
+
+/*sidebar section*/
+.sidebar-section {
+ background-color:	#a4b3c7a6;
+ width: 380px;
+ padding-top:30px;
+ padding-bottom: 40px;
+ padding-left: 30px;
+} 
+
+
+.personal-dates-section,
+.kentnisse-section {
+ padding-top: 15px;
+ padding-left: 10px;
+} 
+
+.sidebar-title {
+ font-style: normal;
+ font-weight: bold;
+ font-size: 22px;
+ line-height: 24px;
+ color:  rgb(46, 43, 43);
+
+} 
