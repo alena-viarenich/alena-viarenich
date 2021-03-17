@@ -90,6 +90,14 @@ body {
   color: rgb(46, 43, 43);
 }
 
+.sidebar-item {
+  color: #fb6d3a;
+}
+
+.sidebar-itemtext {
+  color: rgb(46, 43, 43);
+}
+
 .qr-code {
   padding-left: 100px;
   padding-top: 25px;
