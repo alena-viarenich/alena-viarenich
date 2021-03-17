@@ -15,7 +15,8 @@ body {
 
 /*main content section*/
 .main-content-section {
-  background-color: rgba(233, 230, 227, 0.363);
+  background-color: rgba(245, 245, 245, 0.363);
+  margin-bottom: 20px;
 }
 
 /*Titel content section*/
